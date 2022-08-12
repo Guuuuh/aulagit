@@ -1,6 +1,6 @@
-g = 31
+g = 3
 
-if g > 30:
-    print("positivo")
-else:
+if g > 2:
     print("negativo")
+else:
+    print("positivo")
