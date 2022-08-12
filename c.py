@@ -1,6 +1,6 @@
-a = 1 
-b = 2
+g = 2
+u = 4
 
-a, b = b, a
-print(a)
-print(b)
+g, u = u, g
+print(g)
+print(u)
